@@ -1,4 +1,4 @@
-## welcome
+## Welcome
 
 This is Jack Dempsey's personal website.
 

@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## welcome
 
-You can use the [editor on GitHub](https://github.com/jackdemps/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is Jack Dempsey's personal website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It will feature projects, blog posts, and various other things.
 
 ### Markdown
 
